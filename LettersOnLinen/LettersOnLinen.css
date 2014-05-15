@@ -3,7 +3,7 @@ html {
     display: table;
 }
 body {
-    background: url('linen.jpg') repeat;
+    background: url('linen.jpg') repeat #222 !important;
     display: table-cell;
     width: 100%;
     padding: 55px 10px;
@@ -41,7 +41,7 @@ body {
     top: -16px;
     overflow: visible;
     font-weight: 200;
-    background-color: transparent;
+    background-color: transparent !important;
     -moz-appearance: none;
     color: #fff;
 }
